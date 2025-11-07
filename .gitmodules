@@ -1,0 +1,3 @@
+[submodule "CrumbEngine"]
+	path = CrumbEngine
+	url = https://github.com/MXDanCGT/CrumbEngine.git
